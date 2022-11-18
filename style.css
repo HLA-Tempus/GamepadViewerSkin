@@ -481,7 +481,7 @@ strong {
 
 /*BEGIN Xbox One Controller Styling*/
 .controller.xbox {
-	background: url(https://raw.githubusercontent.com/tempus157/GamepadViewerSkin/main/base.svg);
+	background: url(https://raw.githubusercontent.com/tempus157/GamepadViewerSkin/main/SVG/base.svg);
 	height: 630px;
 	width: 750px;
 	/*    margin-left: -375px;
@@ -493,7 +493,7 @@ strong {
 }
 
 .xbox.disconnected {
-	background: url(https://raw.githubusercontent.com/tempus157/GamepadViewerSkin/main/disconnected.svg);
+	background: url(https://raw.githubusercontent.com/tempus157/GamepadViewerSkin/main/SVG/disconnected.svg);
 }
 
 .xbox.disconnected div {
@@ -510,7 +510,7 @@ strong {
 .xbox .trigger {
 	width: 73px;
 	height: 112px;
-	background: url(https://raw.githubusercontent.com/tempus157/GamepadViewerSkin/main/trigger.svg);
+	background: url(https://raw.githubusercontent.com/tempus157/GamepadViewerSkin/main/SVG/trigger.svg);
 	opacity: 0;
 }
 
@@ -527,7 +527,7 @@ strong {
 .xbox .bumper {
 	width: 143px;
 	height: 58px;
-	background: url(https://raw.githubusercontent.com/tempus157/GamepadViewerSkin/main/bumper.svg);
+	background: url(https://raw.githubusercontent.com/tempus157/GamepadViewerSkin/main/SVG/bumper.svg);
 	opacity: 0;
 }
 
@@ -595,7 +595,7 @@ strong {
 .xbox .back,
 .xbox .start {
 	position: absolute;
-	background: url(https://raw.githubusercontent.com/tempus157/GamepadViewerSkin/main/start-select.svg);
+	background: url(https://raw.githubusercontent.com/tempus157/GamepadViewerSkin/main/SVG/start-select.svg);
 	width: 33px;
 	height: 33px;
 	top: -31px;
@@ -628,7 +628,7 @@ strong {
 
 .xbox .button {
 	position: absolute;
-	background: url(https://raw.githubusercontent.com/tempus157/GamepadViewerSkin/main/abxy.svg);
+	background: url(https://raw.githubusercontent.com/tempus157/GamepadViewerSkin/main/SVG/abxy.svg);
 	width: 48px;
 	height: 48px;
 }
@@ -673,7 +673,7 @@ strong {
 
 .xbox .stick {
 	position: absolute;
-	background: url(https://raw.githubusercontent.com/tempus157/GamepadViewerSkin/main/stick.svg);
+	background: url(https://raw.githubusercontent.com/tempus157/GamepadViewerSkin/main/SVG/stick.svg);
 	background-position: -85px 0;
 	height: 83px;
 	width: 83px;
@@ -702,7 +702,7 @@ strong {
 }
 
 .xbox .face {
-	background: url(https://raw.githubusercontent.com/tempus157/GamepadViewerSkin/main/dpad.svg);
+	background: url(https://raw.githubusercontent.com/tempus157/GamepadViewerSkin/main/SVG/dpad.svg);
 	position: absolute;
 	opacity: 0;
 }
