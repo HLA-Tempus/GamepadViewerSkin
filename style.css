@@ -481,7 +481,7 @@ strong {
 
 /*BEGIN Xbox One Controller Styling*/
 .controller.xbox {
-	background: url(xbox-assets/base.svg);
+	background: url(https://raw.githubusercontent.com/tempus157/GamepadViewerSkin/main/base.svg);
 	height: 630px;
 	width: 750px;
 	/*    margin-left: -375px;
@@ -510,7 +510,7 @@ strong {
 .xbox .trigger {
 	width: 88px;
 	height: 121px;
-	background: url(xbox-assets/trigger.svg);
+	background: url(https://raw.githubusercontent.com/tempus157/GamepadViewerSkin/main/trigger.svg);
 	opacity: 0;
 }
 
@@ -527,7 +527,7 @@ strong {
 .xbox .bumper {
 	width: 170px;
 	height: 61px;
-	background: url(xbox-assets/bumper.svg);
+	background: url(https://raw.githubusercontent.com/tempus157/GamepadViewerSkin/main/bumper.svg);
 	opacity: 0;
 }
 
@@ -593,7 +593,7 @@ strong {
 
 .xbox .back,
 .xbox .start {
-	background: url(xbox-assets/start-select.svg);
+	background: url(https://raw.githubusercontent.com/tempus157/GamepadViewerSkin/main/start-select.svg);
 	width: 33px;
 	height: 33px;
 	opacity: 0;
@@ -623,7 +623,7 @@ strong {
 
 .xbox .button {
 	position: absolute;
-	background: url(xbox-assets/abxy.svg);
+	background: url(https://raw.githubusercontent.com/tempus157/GamepadViewerSkin/main/abxy.svg);
 	width: 48px;
 	height: 48px;
 }
@@ -668,7 +668,7 @@ strong {
 
 .xbox .stick {
 	position: absolute;
-	background: url(xbox-assets/stick.svg);
+	background: url(https://raw.githubusercontent.com/tempus157/GamepadViewerSkin/main/stick.svg);
 	background-position: -85px 0;
 	height: 83px;
 	width: 83px;
@@ -697,7 +697,7 @@ strong {
 }
 
 .xbox .face {
-	background: url(xbox-assets/dpad.svg);
+	background: url(https://raw.githubusercontent.com/tempus157/GamepadViewerSkin/main/dpad.svg);
 	position: absolute;
 	opacity: 0;
 }
