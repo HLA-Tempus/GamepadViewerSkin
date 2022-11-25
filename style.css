@@ -2,10 +2,8 @@
 
 .controller.xbox {
 	background: url(https://raw.githubusercontent.com/tempus157/GamepadViewerSkin/main/SVG/base.svg);
-	height: 630px;
-	width: 750px;
-	/*    margin-left: -375px;
-        margin-top: -285px;*/
+	height: 506px;
+	width: 506px;
 }
 
 .xbox.white {
@@ -74,7 +72,7 @@
 }
 
 .xbox .quadrant {
-	opacity: 0;
+	display: none;
 }
 
 .xbox .back,
